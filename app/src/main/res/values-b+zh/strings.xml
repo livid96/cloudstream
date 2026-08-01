@@ -747,4 +747,12 @@
     <string name="video_singular">视频</string>
     <string name="skip_type_preview">预览</string>
     <string name="player_is_live">播放中</string>
+    <string name="tv_layout_clock_settings">显示实时时钟</string>
+    <string name="tv_layout_clock_settings_des">在屏幕顶部显示实时时钟。应用于主页和播放器</string>
+    <string name="profile_settings">配置文件设置</string>
+    <string name="profile_hide_negative_sources">隐藏负优先级的来源</string>
+    <string name="profile_hide_error_sources">隐藏有错误的来源</string>
+    <plurals name="links_hidden">
+        <item quantity="other">%d 条隐藏链接</item>
+    </plurals>
 </resources>
